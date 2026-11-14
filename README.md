@@ -1,5 +1,5 @@
 
-Organize files after AI-assisted work: preserve final deliverables and source files, collect deletion candidates, simplify folders, and flag uncertain files with full paths. Use only after project completion; not recommended during active work. Personal, non-commercial use only.
+Organize files after AI-assisted work: preserve final deliverables and source files, collect deletion candidates, simplify folders, and flag uncertain files with full paths. Use only after project completion; not recommended during active work. 
 # AI Workspace Tidy
 
 **Keep your project easy to navigate after working with AI.**
