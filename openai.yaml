@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 工作后资料整理"
+  short_description: "保留终稿与源文件，集中可删资料、简化层级，并列出待确认文件的完整路径"
+  default_prompt: "使用 $ai-workspace-tidy 整理当前项目中这次与 AI 工作后的资料，保留终稿及源文件，把明确可删的内容移到可删，简化层级，并列出不能确认是否可删的完整路径提醒我查看。"
